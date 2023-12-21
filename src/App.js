@@ -48,14 +48,14 @@ function Todos3 (props) {
   )
 }
 function App() {
-  const name = "rosanhusen";
+  const name = "saidatunnizmah";
   return (
     <div>
       <h1 class= "text-center"> Todo list {name}</h1>
       <div class = "text-right">
-        <Todos1 tanggal = "13-11-2023"/>
-        <Todos2 tanggal = "13-11-2023"/>
-        <Todos3 tanggal = "13-11-2023"/>
+        <Todos1 tanggal = "13-12-2023"/>
+        <Todos2 tanggal = "13-12-2023"/>
+        <Todos3 tanggal = "13-12-2023"/>
       </div>
     </div>
   );
